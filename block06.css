@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(121, 141, 97);
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  background-color: rgb(35, 14, 85);
+  color: antiquewhite;
+}
+.t1 {
+  text-align: left;
+  background-color: rgb(202, 121, 107);
+  padding-right: 20pc;
+  border: 1px solid black;
+}
+th {
+  text-align: center;
+  text-decoration: underline;
+  border: 1px solid black;
+  background-color: aqua;
+}
+.img {
+    padding-left: 40%;
+
+}
+.t2{
+    text-align: left;
+    background-color: rgb(233, 159, 221);
+    padding-right: 20pc;
+    border: 1px solid black;
+  }
+  .t3 {
+    text-align: left;
+    background-color: rgb(191, 202, 90);
+    padding-right: 20pc;
+    border: 1px solid black;
+  }.t4 {
+    text-align: left;
+    background-color: rgb(173, 113, 40);
+    padding-right: 20pc;
+    border: 1px solid black;
+  }
